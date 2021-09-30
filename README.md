@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannytoribio&show_icons=true&theme=radical)
+![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannytoribio&show_icons=true&theme=dark)
 
 
 <!--
